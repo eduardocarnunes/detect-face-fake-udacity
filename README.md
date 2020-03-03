@@ -1,4 +1,4 @@
-# Fake-Face-detection-with-infrared-camera
+# Fake Face Detection with infrared camera
 
 This repository contains a fake face detection machine learning project. More details on the approach and the data can be found in the proposal.pdf file.
 
